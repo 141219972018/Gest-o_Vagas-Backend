@@ -1,0 +1,3 @@
+br/com/mbalujunior/gestao_vagas/utils/TestUtils.class
+br/com/mbalujunior/gestao_vagas/modules/candidate/useCases/ApplyJobCandidateUseCaseTest.class
+br/com/mbalujunior/gestao_vagas/modules/company/controllers/CreateJobControllerTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.mbalujunior.gestao_vagas.modules.candidate.useCases.ApplyJobCandidateUseCaseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.065 s -- in br.com.mbalujunior.gestao_vagas.modules.candidate.useCases.ApplyJobCandidateUseCaseTest
